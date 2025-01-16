@@ -33,13 +33,19 @@
 </div>
 
 ###
-
 # 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GussLopez&theme=dark&hide_border=true&include_all_commits=false&count_private=true" alt="Estadísticas de GitHub" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GussLopez&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Lenguajes más usados" />
-</p>
+<div align="center">
+  
+  ![](https://github-readme-stats.vercel.app/api?username=GussLopez&theme=nord&hide_border=true&include_all_commits=true&count_private=true)<br align="center"/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=GussLopez&theme=nord&hide_border=true)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GussLopez&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+  
+---
+[![](https://visitcount.itsvg.in/api?id=GussLopez&icon=0&color=0)](https://visitcount.itsvg.in)
 
+</div>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
