@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently studing in Universidad Tecnólogica de Cancún<br>💼  I'm currently working on Hotel International Supply's website</p>
+<p align="left">📚 I'm currently studing in Universidad Tecnólogica de Cancún<br>💼  I'm currently working in Saimo de Mexico</p>
 
 ###
 
@@ -18,18 +18,8 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,materialui,express,sequelize,prisma,mysql,postgresql,git,github" />
 </div>
 
 ###
