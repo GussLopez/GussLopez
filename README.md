@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">📚 I'm currently studing in Universidad Tecnólogica de Cancún<br>💼  I'm currently working in Saimo de Mexico</p>
+<p align="left">📚 I'm currently studing in Universidad Tecnólogica de Cancún<br>💼  I'm currently working in Grupo Saimo</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Tech Stack</h2>
 
 ###
 
