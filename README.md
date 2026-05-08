@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently studing in Universidad Tecnólogica de Cancún<br>💼  I'm currently working in Grupo Saimo</p>
+<p align="left">📚 I'm currently studing in Universidad Tecnólogica de Cancún<br>💼  I'm currently working in Hisgroup Company</p>
 
 ###
 
