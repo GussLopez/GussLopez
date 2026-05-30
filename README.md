@@ -6,7 +6,7 @@
   <samp>
     
   <a href="https://guslopez.dev">Portfolio</a> • 
-  <a href="https://">LinkedIn</a> • 
+  <a href="https://www.linkedin.com/in/gusslopez">LinkedIn</a> • 
   <a href="mailto:gustavolopez819@gmail.com">Email</a>
   </samp>
   
